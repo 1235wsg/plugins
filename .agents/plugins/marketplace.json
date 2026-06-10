@@ -1,5 +1,5 @@
 {
-  "name": "openai",
+  "name": "my-plugin",
   "interface": {
     "displayName": "Codex"
   },
