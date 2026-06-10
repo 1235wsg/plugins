@@ -1916,18 +1916,6 @@
       "category": "Data & Analytics"
     },
     {
-      "name": "metabase",
-      "source": {
-        "source": "local",
-        "path": "./plugins/metabase"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "Data & Analytics"
-    },
-    {
       "name": "actively",
       "source": {
         "source": "local",
@@ -2076,6 +2064,30 @@
       "source": {
         "source": "local",
         "path": "./plugins/magicpath"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "brighthire",
+      "source": {
+        "source": "local",
+        "path": "./plugins/brighthire"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "catalyst-by-zoho",
+      "source": {
+        "source": "local",
+        "path": "./plugins/catalyst-by-zoho"
       },
       "policy": {
         "installation": "AVAILABLE",
